@@ -1,0 +1,55 @@
+h1,
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(156, 113, 47);
+}
+
+p {
+    text-align: center;
+}
+
+.center,
+#centerspag,
+#centerfc,
+#centerff {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#centerspag,
+#centerfc,
+#centerff {
+    height: 600px;
+    width: auto;
+}
+
+.spagtitle,
+.spaging,
+.spagsteps {
+    text-align: center;
+    color: white;
+    background-color: rgb(228, 36, 36);
+}
+
+.fctitle,
+.fcing,
+.fcsteps {
+    text-align: center;
+    color: white;
+    background-color: rgb(228, 153, 15);
+}
+
+#fftitle {
+    text-align: center;
+    color: white;
+    background-color: rgb(45, 45, 230);
+}
+
+.linklist {
+    text-align: center;
+}
+
+
